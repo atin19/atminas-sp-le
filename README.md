@@ -2,3 +2,4 @@
 Spēle izdevusies
 Var spēlēt visi, 
 bet jāiemācās izveidot
+veicam izmaiņas
